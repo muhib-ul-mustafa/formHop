@@ -185,5 +185,5 @@ Access your class schedule for the upcoming semester through our user-friendly s
     });
 });
 
-const port = process.env.PORT || https://muhib-ul-mustafa.github.io/formHop/;
+const port = process.env.PORT || https://form-hop.vercel.app/;
 app.listen(port, () => console.log(`Server running on port ${port}`));
