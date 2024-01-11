@@ -184,6 +184,6 @@ Access your class schedule for the upcoming semester through our user-friendly s
       res.status(500).send('Server error');
     });
 });
-
+console.log("muhib");
 const port = process.env.PORT || https://form-hop.vercel.app/;
 app.listen(port, () => console.log(`Server running on port ${port}`));
